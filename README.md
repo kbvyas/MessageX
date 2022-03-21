@@ -17,5 +17,9 @@ An internet based messaging iOS app similar to WhatsApp, enabling users to send/
 * Creating custom views using .xib files.
 * Creating direct Segues for navigation.
 
+## Instructions
+
+In order to run this project successfully, you need to remotely install all the pods mentioned in the pod file.
+
 >This project is inspired from The App Brewery's Complete App Development Bootcamp - Flash Chat Project.
 
