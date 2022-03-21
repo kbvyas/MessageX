@@ -8,6 +8,8 @@ An internet based messaging iOS app similar to WhatsApp, enabling users to send/
 ## Live Demo
 #### MessageX Live Demo
 
+https://github.com/kbvyas/MessageX/blob/713ddf3db1b56745ecf92208cf782fc7b7bd196b/MessageX-Demo(noaudio).mov
+
 ## Learning Objectives
 
 * Integrating third party libraries into the app using Cocoapods and Swift Package Manager.
